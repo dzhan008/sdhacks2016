@@ -34,6 +34,9 @@ This will create the topics from the text file. Now, you must select a topic by 
 
 After selecting a topic, you should select a time. Use !timerset to set the time in seconds. Once you have both a topic and time set, you are able to start the contest by using !startcontest.
 
+##Getting User Information
+During a contest, users will be passing in links which the bot will store into a hash table. This occurs until the end of a contest. Mods and the stream themself can access the user information through !getinfo. This command will display everyone's submission with a particular ID. You can announce the winner by using !announcewinner ID once you find out who the winner is. 
+
 #Commands
 
 ###Contest
