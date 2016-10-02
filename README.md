@@ -25,6 +25,15 @@ the list of users and their drawings and filter or remove any inappropriate or o
 4. Enter a channel name with #username. This channel name should match your twitch bot account.
 5. Join that channel to begin typing commands and comments under that channel.
 
+##To make a contest
+Make sure you have a list of topics inside the topics.txt file. Make sure you start from the first line and make a new topic per new line. Once you have done so, you need to create the topic list for the bot to use. To do this, type
+
+!createtopiclist
+
+This will create the topics from the text file. Now, you must select a topic by using either !selecttopic or !selectrandomtopic. You can use !listtopics to list the current topics loaded.
+
+After selecting a topic, you should select a time. Use !timerset to set the time in seconds. Once you have both a topic and time set, you are able to start the contest by using !startcontest.
+
 #Commands
 
 ###Contest
