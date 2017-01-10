@@ -17,10 +17,10 @@ the list of users and their drawings and filter or remove any inappropriate or o
 
 #Required Software
 1. [mIRC](http://www.mirc.com/)
-2. [JSON For Mirc](https://github.com/SReject/JSON-For-Mirc)
+2. [JSON For mIRC](https://github.com/SReject/JSON-For-Mirc)
 
 #Instructions
-1. Install JSON For Mirc into the ucart folder.
+1. Install JSON For mIRC into the ucart folder.
 2. Navigate to your mIRC directory.
 2. Copy the contents of the ucart folder into the mIRC folder.
 3. Run mIRC, and connect to the server. 
