@@ -17,9 +17,11 @@ the list of users and their drawings and filter or remove any inappropriate or o
 
 #Required Software
 1. [mIRC](http://www.mirc.com/)
+2. JSON For Mirc (https://github.com/SReject/JSON-For-Mirc)
 
 #Instructions
-1. Navigate to your mIRC directory.
+1. Install JSON For Mirc into the ucart folder.
+2. Navigate to your mIRC directory.
 2. Copy the contents of the ucart folder into the mIRC folder.
 3. Run mIRC, and connect to the server. 
 4. Enter a channel name with #username. This channel name should match your twitch bot account.
